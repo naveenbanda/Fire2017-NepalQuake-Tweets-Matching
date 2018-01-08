@@ -1,7 +1,8 @@
-# Fire2017-NepallQuakeTweetsMatching
-[Information Retrieval from Microblogs during Disasters (IRMiDis)](!https://sites.google.com/site/irmidisfire2017/)
+# [Fire2017-NepalQuakeTweetsMatching](!http://ceur-ws.org/Vol-2036/)
 
----
+- Overview of all FIRE 2017 IRMDis submissions: [here](!http://ceur-ws.org/Vol-2036/T2-1.pdf). 
+- Our submissions ranked **2nd in subtask-1** and **1st in subtask-2**. Our paper can be found [here](!http://ceur-ws.org/Vol-2036/T2-4.pdf)
+
 # Target
 ## Track Description
 Microblogging sites like Twitter are increasingly being used for aiding relief operations during disaster events. In such situations, identifying actionable information like needs and availabilities of various types of resources is critical for effective coordination of post disaster relief operations. However, such critical information is usually submerged within a lot of conversational content, such as sympathy for the victims of the disaster. Hence, automated IR techniques are needed to find and process such information.In this track, we focus on two types of tweets:
