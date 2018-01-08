@@ -1,7 +1,7 @@
-# [Fire2017-NepalQuakeTweetsMatching](!http://ceur-ws.org/Vol-2036/)
+# [Fire2017-NepalQuakeTweetsMatching](http://ceur-ws.org/Vol-2036/)
 
-- Overview of all FIRE 2017 IRMDis submissions: [here](!http://ceur-ws.org/Vol-2036/T2-1.pdf). 
-- Our submissions ranked **2nd in subtask-1** and **1st in subtask-2**. Our paper can be found [here](!http://ceur-ws.org/Vol-2036/T2-4.pdf)
+- Overview of all FIRE 2017 IRMDis submissions: [here](http://ceur-ws.org/Vol-2036/T2-1.pdf).
+- Our submissions ranked **2nd in subtask-1** and **1st in subtask-2**. Our paper can be found [here](http://ceur-ws.org/Vol-2036/T2-4.pdf)
 
 # Target
 ## Track Description
